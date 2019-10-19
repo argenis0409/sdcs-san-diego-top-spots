@@ -1,7 +1,18 @@
-San Diego Top Spots.
+# San Diego Top Spots.
 
 Check out some of the great places in downtown San Diego.
 
-Just copy the files into your code editor then type "npm start" to get the project working,
-after doing so pick your favorite spot.
+## To install
+Clone or download the repo then run the following commands:
+```
+npm install
+npm start
+```
+Then go to http://127.0.0.1:8080
+
+## To test
+```
+npm test
+```
+
 
